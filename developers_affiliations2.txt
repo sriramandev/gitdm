@@ -3231,7 +3231,7 @@ PushkarJ: PushkarJ!users.noreply.github.com, pjoglekar!vmware.com, pujoglek!visa
 	Visa Inc. until 2021-03-05
 	VMware Inc. from 2021-03-05 until 2022-10-03
 	Independent from 2022-10-03 until 2025-11-23
-	Broadcom Corporation from 2025-11-23
+	VMware Inc. from 2025-11-23
 PushkarJambhlekar: pushkar.iit!gmail.com
 	NVIDIA Corporation until 2015-07-01
 	Microsoft Corporation from 2015-07-01 until 2016-11-01
