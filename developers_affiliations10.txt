@@ -2149,13 +2149,8 @@ ywauthy: ywauthy!users.noreply.github.com
 	Consumer Physics from 2014-11-01 until 2017-10-01
 	Samsung Electronics Co. Ltd. from 2017-10-01 until 2018-11-01
 	DoiT from 2018-11-01
-ywk253100: yinw!vmware.com, yinw!yinw-m02.vmware.com, ywk253100!163.com
-	VMware Inc.
-ywk253100: ywk253100!users.noreply.github.com
-	Mishor until 2014-11-01
-	Consumer Physics from 2014-11-01 until 2017-10-01
-	Samsung Electronics Co. Ltd. from 2017-10-01 until 2018-11-01
-	DoiT from 2018-11-01
+ywk253100: yinw!vmware.com, ywk253100!163.com, wenkai.yin!broadcom.com
+	VMware Inc. from 2015-04-01
 ywluogg: ywluogg!users.noreply.github.com
 	Independent until 2015-06-01
 	Wayfair from 2015-06-01 until 2015-08-01
