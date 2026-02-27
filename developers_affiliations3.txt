@@ -13638,7 +13638,7 @@ blackjid: blackjid!users.noreply.github.com, jidonoso!gmail.com
 blackknight36: blackknight36!users.noreply.github.com, michael-k!users.noreply.github.com
 	VMware Inc.
 blackpiglet: blackpiglet!163.com, blackpiglet!users.noreply.github.com
-	NetEase Inc
+	VMware Inc. from 2021-10-10
 blacksails: b!noergaard.dk, benjamin.noergaard!tradeshift.com, blacksails!users.noreply.github.com
 	Avalonia ApS until 2017-01-01
 	Spiir from 2017-01-01 until 2018-08-01
